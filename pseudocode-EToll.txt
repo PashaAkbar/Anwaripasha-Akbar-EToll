@@ -13,3 +13,4 @@ FUNCTION TapCard (Balance, Cost)
             TapCard(Balance)
         ELSE
             GatewayClose()
+END FUNCTION
