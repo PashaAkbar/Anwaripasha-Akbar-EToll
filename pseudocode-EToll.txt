@@ -2,3 +2,5 @@ PROGRAM ETOll
 
 READ AND WRITE "Balance" with number
 READ AND WRITE "Cost" with number
+
+FUNCTION TapCard (Balance, Cost)
